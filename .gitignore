@@ -1,0 +1,10 @@
+# macOS
+.DS_Store
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Maven internal (pero NO target/)
+.mvn/
