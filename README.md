@@ -53,7 +53,3 @@ Sirve como **material de apoyo** para la práctica de *Testing* de Ingeniería d
 * **Jared Guerrero**
 * **Ismael Caballero**
 * **Moisés Rodríguez**
-
----
-
-Si quieres, puedo añadir un esquema visual de ramas o un árbol del proyecto.
