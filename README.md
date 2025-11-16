@@ -1,6 +1,6 @@
 # Demo de Testing — ISO2
 
-Este repositorio ofrece un **ejemplo simple y completo** de cómo estructurar y ejecutar un proyecto Maven con pruebas unitarias en **JUnit 4**, generación de informes con **Surefire** y **JaCoCo**, y organización de ramas según el flujo recomendado en la asignatura.
+Este repositorio ofrece un ejemplo simple de cómo estructurar y ejecutar un proyecto Maven con pruebas unitarias en **JUnit 4**, generación de informes con **Surefire** y **JaCoCo**, y organización de ramas según el flujo recomendado en la asignatura.
 Sirve como **material de apoyo** para la práctica de *Testing* de Ingeniería del Software II (ISO2).
 
 ---
